@@ -1,6 +1,6 @@
 # Assignment2 - Pine Chapter 3 Questions
 
-To accept this assignment: 
+To accept this assignment: https://classroom.github.com/a/Dcb0XHG9
 
 These questions correspond to chapter 3 of the Pine Python Manual
 
